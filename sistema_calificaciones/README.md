@@ -32,7 +32,7 @@ Aplicar los conceptos fundamentales de estructuras de datos lineales (arreglos o
 ### Pasos de ejecución
 1. Clonar el repositorio o descargar los archivos del proyecto:
    ```bash
-   git clone https://github.com/TU_USUARIO/sistema-calificaciones.git
+   git clone https://github.com/domingamaestriaufhec/Sistema-Calificaciones.git
    ```
 2. Acceder al directorio del proyecto:
    ```bash
