@@ -1,6 +1,11 @@
 """
 Sistema de Gestión de Calificaciones de Estudiantes
 ---------------------------------------------------
+Estudiante: Dominga Rodríguez Marte
+Grupo: 40
+Institución: Instituto Tecnológico de Las Américas (ITLA)
+Asignatura: Fundamentos de Programación
+
 Este programa implementa el uso y manipulación de arreglos (vectores)
 en Python para la administración y análisis de calificaciones académicas.
 
@@ -13,6 +18,7 @@ Requisitos cumplidos:
 - Operaciones de cálculo (promedio, suma, máximos, mínimos) y búsqueda.
 - Presentación amigable y estructurada de resultados.
 """
+
 
 def mostrar_calificaciones(calificaciones):
     """Muestra todas las calificaciones recorriendo el arreglo con un ciclo."""

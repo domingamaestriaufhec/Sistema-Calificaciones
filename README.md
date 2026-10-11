@@ -46,7 +46,7 @@ Aplicar los conceptos fundamentales de estructuras de datos lineales (arreglos o
 ---
 
 ## Datos del Estudiante
-- **Nombre del estudiante:** [Tu Nombre Completo Aquí]
-- **Matrícula:** [Tu Matrícula Aquí]
+- **Nombre del estudiante:** Dominga Rodríguez Marte
+- **Grupo:** 40 
 - **Asignatura:** Fundamentos de Programación
 - **Institución:** Instituto Tecnológico de Las Américas (ITLA)
